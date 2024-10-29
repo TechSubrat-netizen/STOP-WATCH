@@ -62,7 +62,7 @@ resetBtn.addEventListener('click',function()
     mSec=0;
     minTag.textContent="00";
     secTag.textContent="00";
-    mSecTag.textContent="00";
+    miliSecTag.textContent="00";
 })
 
 
